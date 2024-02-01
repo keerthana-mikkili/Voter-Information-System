@@ -8,14 +8,15 @@ The Voter Information System is a web application developed using ASP.NET MVC an
 2. Usage
 
 
+
 ### Installation
 To install and set up the Voter Information System locally, follow these steps:
 1. Clone the repository:
 
-> git clone https://github.com/yourusername/voter-information-system.git
+> git clone url
 
 2. Navigate to the project directory:
->c d voter-information-system
+> cd voter-information-system
 
 3. Install dependencies:
 > dotnet restore
@@ -37,6 +38,7 @@ The Voter Information System allows users to perform the following actions:
 1. View voter details
 2. Update voter information
 3. Delete voter records
+
 Ensure that you have the necessary permissions and credentials to perform these actions.
 
 
