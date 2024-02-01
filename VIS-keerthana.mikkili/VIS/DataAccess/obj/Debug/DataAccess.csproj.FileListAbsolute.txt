@@ -1,0 +1,12 @@
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\keerthana.mikkili\source\repos\VIS\DataAccess\obj\Debug\DataAccess.pdb
